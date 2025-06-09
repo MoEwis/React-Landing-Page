@@ -6,7 +6,7 @@ This project provides a clean and modern setup using **React**, **TypeScript**, 
 
 ## 🔍 Project Preview
 
-![Preview](./assets/preview.png)
+![Preview](./src/assets/preview.png)
 
 ---
 
